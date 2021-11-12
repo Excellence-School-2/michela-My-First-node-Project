@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Excellence-School-2/michela-My-First-node-Project/issues"
   },
-  "homepage": "https://github.com/Excellence-School-2/michela-My-First-node-Project#readme"
+  "homepage": "https://github.com/Excellence-School-2/michela-My-First-node-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
